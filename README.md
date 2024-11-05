@@ -10,6 +10,6 @@ A simple React app that counts down the time remaining until the New Year! This 
 
 ## Live Demo
 
-Link to Demo: netlify
+Link to Demo: https://n-e-w-year-countdown.netlify.app/
 
 ### Happy New Year and happy coding! 🎆
