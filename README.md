@@ -1,6 +1,6 @@
 # New Year Countdown React App 🎉
 
-A simple React app that counts down the time remaining until the New Year! This app displays a live countdown in days, hours, minutes, and seconds, and automatically stops count down reaching New Year.
+A simple React app that counts down the time remaining until the New Year! This app displays a live countdown in days, hours, minutes, and seconds, and automatically stops the countdown when it reaches midnight on New Year’s Eve.
 
 ## Features
 
